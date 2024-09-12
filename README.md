@@ -1,13 +1,14 @@
 # Notebooks to run on ProQuest TDM Studio
 
+**All use must comply with ProQuest's terms of use and licensing agreements. This notebook provided for educational purposes only.**
+
 ## Overview
 
 These notebooks (Python and R) are expanded versions of the sample resources available on the ProQuest TDM Workspace instance. They fill in some of the missing functionality, and give you options to accomplish your goals.
 
 * `dataset_export_with_noise_fn.ipynb` (Written in Python): Use this notebook to export your dataset (collection of texts) as a .csv. 
 
-Note that to comply with ProQuest licensing, you MUST use a noise function to alter the Full Text data - PQ does not permit exporting complete, unaltered full texts. Alternatively you can run your analysis within the Workspace environment. Details for each (and a possible noise function) are included in this notebook.
-
+You MUST use a noise function to alter the Full Text data - PQ does not permit exporting complete, unaltered full texts. Alternatively you can run your analysis within the Workspace environment. Details for each (and a possible noise function) are included in this notebook. 
 
 ## How to import a Notebook from your computer into the Workspace environment
 
